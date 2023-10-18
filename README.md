@@ -1,5 +1,5 @@
 # XOR SOlVER
-This program resolves XOR systems, read the pdf for more information.
+This program solves XOR systems, read the pdf for more information.
 ## Usage
 For exemple
 a ^ c = 1
