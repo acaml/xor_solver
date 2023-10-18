@@ -1,35 +1,21 @@
-# xor_solver
+a ^ c = 1
 
-**Description:** A tool to solve systems of XOR equations.
+b ^ c = 0
 
-## System Representation
+a ^ c ^ d = 1
 
-The system of XOR equations can be represented using a matrix and a vector:
+gives matrix 
 
-Equations:
+| 1  0  0 |
 
-1. \(a \oplus c = 1\)
-2. \(b \oplus c = 0\)
-3. \(a \oplus c \oplus d = 1\)
+| 0  1  1 |
 
-Matrix representation:
+| 1  1  1 |
 
-\[
-\begin{bmatrix}
-    1 & 0 & 0 \\
-    0 & 1 & 1 \\
-    1 & 1 & 1 \\
-\end{bmatrix}
-\]
+and vector
 
-Vector representation:
+| 1 |
 
-\[
-\begin{bmatrix}
-    1 \\
-    0 \\
-    1 \\
-\end{bmatrix}
-\]
+| 0 |
 
-This system can be solved using the provided matrix and vector.
+| 1 |
