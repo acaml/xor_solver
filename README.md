@@ -1,5 +1,5 @@
 This program resolves XOR systems, read the pdf for more information.
-#Usage
+##Usage
 For exemple
 a ^ c = 1
 
