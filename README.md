@@ -19,8 +19,8 @@ gives matrix
 
 and vector
 
-| 1 |
+| 9884 |
 
-| 0 |
+| 34 |
 
-| 1 |
+| 165 |
