@@ -1,4 +1,4 @@
-# XOR SOlVER
+# XOR SOLVER
 This program solves XOR systems, read the pdf for more information.
 ## Usage
 For exemple
