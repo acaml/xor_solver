@@ -7,7 +7,7 @@ a ^ c = 9884
 
 b ^ c = 34
 
-a ^ B ^ c = 165
+a ^ b ^ c = 165
 
 gives matrix 
 
